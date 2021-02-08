@@ -594,10 +594,12 @@ Each player receives
 
 *COIN*
 
+```
 5 pieces worth 1 unit
 4 pieces worth 3 units
 3 pieces worth 5 units
 3 pieces worth 0 units (to bluff)
+```
 
 *CARDS*
 
