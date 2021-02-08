@@ -9,6 +9,8 @@ Whether Sherin saves us... or drops the guillotine! all depends on the evidence 
 
 All the players in the narrative represent artefacts from Earth that Sherin will be able to interact with and collect evidence from.
 
+The characters and artefact encounters are described in [characters.md](https://github.com/tijptjik/TheTrial/blob/main/characters.md)
+
 ## Quest Items
 
 ![](header.jpg)
