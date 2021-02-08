@@ -1,3 +1,5 @@
+![](header.png)
+
 # The Trial
 
 HUMANITY has been emiting such drab vibes into the aether that the COURT OF GALACTIC OPINION is considering whether Humanity should be *CANCELLED*. The COURT has sent an ADJUDICATOR to Earth who is calling on SHERIN for her expert testimony (oh shit!). 
