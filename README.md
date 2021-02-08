@@ -8,7 +8,7 @@ All the players in the narrative represent artefacts from Earth that Sherin will
 
 ## Quest Items
 
-The quest items are available through [Figma](https://www.figma.com/file/0tJ0M26kYCQXyxjpTKBE8i/Figma-Multiplayer-Dice-Games!-(Community)?node-id=95%3A0), or here in this repo in the `quest item` directory.
+The quest items are available through [Figma](https://www.figma.com/file/0tJ0M26kYCQXyxjpTKBE8i/Figma-Multiplayer-Dice-Games!-(Community)?node-id=95%3A0), or here in this repo in the [`quest item`](https://github.com/tijptjik/TheTrial/tree/main/quest%20items) directory.
 
 ## Gallery
 
