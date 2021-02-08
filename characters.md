@@ -603,18 +603,21 @@ Each player receives
 
 The cards consist of all 4 suits of playing cards with face value of 10,8,6,4,2 - each number represents a set of 4 suits. Suits carry no meaning. One player receives
 
+```
 card, pcs
  10 x 1
   8 x 3
   6 x 2
   4 x 3
   2 x 1
+```
 
 The other player receives the remaining cards.
 
 #### Play
 
 In turn, players make blind bids by:
+
 1. Identifying which card they are offering to buy. This card must be of a set of which they have at least ONE card.
 2. Hold out the amount they are willing to bid, concealed in a fist.
 3. The other player then decides whether
