@@ -396,10 +396,10 @@ The OFFERS all cost the PROTAGONIST points from her EVIDENCE SCORE, whereas the 
 
 #### OFFER 1 : BULLET POINTS
 
-AVAILABILITY : From the beginning
-DESC : When researching your own disappearance into the aether, you discovered that the same thing happened to the finalist of the punch out championship. If he is also there in the aether, you are confident that to get on his good side, the PROTAGONIST will need puns... so your intelligence agents have retrieved the prep notes from the other finalists... and you suggest the PROTAGONIST acquire them from you.
-COST : 1 point
-INFO : TEXT these to the PROTAGONIST... said your informants reported they would come in handy:
+* AVAILABILITY : From the beginning
+* DESC : When researching your own disappearance into the aether, you discovered that the same thing happened to the finalist of the punch out championship. If he is also there in the aether, you are confident that to get on his good side, the PROTAGONIST will need puns... so your intelligence agents have retrieved the prep notes from the other finalists... and you suggest the PROTAGONIST acquire them from you.
+* COST : 1 point
+* INFO : TEXT these to the PROTAGONIST... said your informants reported they would come in handy:
 
     - The cheese shop exploded as soon as you entered..., no trace of you BOY, ALL THAT LEFT WAS DEBRIE!
     - Light travels faster than sound. That's why BOY appears bright till you hear 'm speak!
@@ -410,9 +410,9 @@ INFO : TEXT these to the PROTAGONIST... said your informants reported they would
 
 #### OFFER 2 : ANGEL OF DEATH
 
-AVAILABILITY : After buying BULLET POINTS, or in ACT 2, whichever comes first.
-DESC : Sometimes 
-REWARD : Provide `Discovered Arrack` if contract is accepted, or `Interference` if it is rejected.
+* AVAILABILITY : After buying BULLET POINTS, or in ACT 2, whichever comes first.
+* DESC : Sometimes 
+* REWARD : Provide `Discovered Arrack` if contract is accepted, or `Interference` if it is rejected.
 
 If bits and bytes can't reach the objective, you aren't shy of pushing atoms. Of course, being the SHADOW BROKER you use currency instead of putting yourself in harm's way - so you have an opportunity for the PROTAGONIST that would move the needle just a little bit towards being good.
 
@@ -422,24 +422,24 @@ If his father dies before midnight, this young man will receive a very large sum
 
 #### OFFER 3 : THE PHAROSI MATRIX
 
-AVAILABILITY : After the PROTAGONIST engages CLAUDIO (Solution to the Fermi Paradox), and if she does not manage to solve it herself.
-DESC : It has come to your attention that humanity is on the cusp of first contact. You'd prefer to keep this information to yourself, but you could give the protagonist a head start. Is the PROTAGONIST interested?
-COST : 1 point
-INFO : The solution is best attempted by drawing a matrix, with all the SECTORS as columns and the variables as rows (i.e. Species, Climate, Government, Agenda, Engine).
+* AVAILABILITY : After the PROTAGONIST engages CLAUDIO (Solution to the Fermi Paradox), and if she does not manage to solve it herself.
+* DESC : It has come to your attention that humanity is on the cusp of first contact. You'd prefer to keep this information to yourself, but you could give the protagonist a head start. Is the PROTAGONIST interested?
+* COST : 1 point
+* INFO : The solution is best attempted by drawing a matrix, with all the SECTORS as columns and the variables as rows (i.e. Species, Climate, Government, Agenda, Engine).
 
 #### OFFER 4 : CONTAINMENT
 
-AVAILABILITY : After the PROTAGONIST engages KAREN (Prehistoric Virus), and if she does not manage to resolve it herself.
-DESC : It has come to your attention that a Prehistoric Virus might leak into the atmosphere unleashing a global pandemic... not that you care as you're based off-world ... but you've received intelligence that would prove vital to purging the virus before it leaks out. Is the PROTAGONIST interested?
-COST : 1 point
-INFO : The trick is to visit the first room twice - as that's the only room that hasn't been contaminated yet
+* AVAILABILITY : After the PROTAGONIST engages KAREN (Prehistoric Virus), and if she does not manage to resolve it herself.
+* DESC : It has come to your attention that a Prehistoric Virus might leak into the atmosphere unleashing a global pandemic... not that you care as you're based off-world ... but you've received intelligence that would prove vital to purging the virus before it leaks out. Is the PROTAGONIST interested?
+* COST : 1 point
+* INFO : The trick is to visit the first room twice - as that's the only room that hasn't been contaminated yet
 
 #### OFFER 5 : THE PHAROSI QUARTER
 
-AVAILABILITY : During ACT 2, and if she has bought offer 3 (Pharosi Matrix) and has not solved it herself. 
-DESC : You've discovered the location of the Pharosi for youself... good this opens up great new frontiers for you...so as a thank you, you're willing to sell the PROTAGONIST coordinates to... narrow her search. Is the PROTAGONIST interested?
-COST : 3 points
-INFO : Informants report that:
+* AVAILABILITY : During ACT 2, and if she has bought offer 3 (Pharosi Matrix) and has not solved it herself. 
+* DESC : You've discovered the location of the Pharosi for youself... good this opens up great new frontiers for you...so as a thank you, you're willing to sell the PROTAGONIST coordinates to... narrow her search. Is the PROTAGONIST interested?
+* COST : 3 points
+* INFO : Informants report that:
   * The civilisation in SECTOR A uses JUMP DRIVES
   * The civilisation in SECTOR B are inhabited by the TURIANS
   * The civilisation in SECTOR C are pursuing MILITARY SUPREMACY
