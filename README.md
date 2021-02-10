@@ -1,6 +1,8 @@
 
 ![](footer.png)
 
+_A narrative adventure birthday party with characters and challenges for 20 guests_
+
 # The Trial
 
 HUMANITY has been emiting such drab vibes into the aether that the COURT OF GALACTIC OPINION is considering whether Humanity should be *CANCELLED*. The COURT has sent an ADJUDICATOR to Earth who is calling on SHERIN for her expert testimony (oh shit!). 
